@@ -87,7 +87,7 @@ I encountered undefined reference errors when trying to compile this task using 
 Will retry with updated OpenCV CMake builds and MinGW setup for working `g++` compilation.
 
 
-### 🙋 Author: Meena Chandrasekar  
+### Author: Meena Chandrasekar  
 💼 Submission for: C++ Developer - Technical Assignment (HTIC)  
 📅 Date: 25 June 2025  
 📧 Email: meena27072001@gmail.com
